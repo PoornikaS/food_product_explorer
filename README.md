@@ -11,7 +11,6 @@
     <a href="#✨-features">Features</a> •
     <a href="#🚀-getting-started">Getting Started</a> •
     <a href="#🛠️-tech-stack">Tech Stack</a> •
-    <a href="#📱-screenshots">Screenshots</a>
   </p>
 </div>
 
@@ -74,13 +73,6 @@ The application integrates with the Open Food Facts API to provide:
 - Nutritional data
 - Product categories
 - Barcode lookup
-
-## 📱 Screenshots
-
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1607082349566-187342175e2f?w=800&auto=format&fit=crop&q=60" alt="Home Page" width="45%" style="margin-right: 10px; border-radius: 8px;" />
-  <img src="https://images.unsplash.com/photo-1607082350899-7e105aa886ae?w=800&auto=format&fit=crop&q=60" alt="Product Details" width="45%" style="border-radius: 8px;" />
-</div>
 
 ## 🔍 Key Features Explained
 
