@@ -37,8 +37,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shibbu04/Food_Finder
-   cd Food_Finder
+   git clone (https://github.com/PoornikaS/food_product_explorer/)
+   cd food_product_explorer
    ```
 
 2. Install dependencies:
@@ -100,26 +100,8 @@ The application integrates with the Open Food Facts API to provide:
 - Mobile camera integration
 - Quick product lookup
 - Instant results display
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-## 🙏 Acknowledgments
-
-- [Open Food Facts](https://world.openfoodfacts.org/) for their comprehensive food product database
-- [Unsplash](https://unsplash.com) for the beautiful images
-- All contributors who help improve the project
-
 ---
 
 <div align="center">
-  Made with ❤️ by Shivam
+  Made with ❤️ by Poornika
 </div>
